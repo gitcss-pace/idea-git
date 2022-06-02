@@ -12,5 +12,6 @@ public class GitTest {
         System.out.println("第二次更新");
         System.out.println("第三次更新,添加文件");
         System.out.println("dev添加");
+        System.out.println("通过ssh地址推送云中");
     }
 }
